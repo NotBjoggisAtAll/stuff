@@ -1,6 +1,11 @@
 # After normal install
 
+Add shortcut for quick access by adding this to the `.config/kglobalshortcutsrc` file
 
+```
+[services][net.local.1password.desktop]
+_launch=Ctrl+Shift+Space
+```
 
 ## Setup with vivaldi browser
 
