@@ -1,8 +1,9 @@
-# stuff
+# Stuff
 
 ### Categories
-- [README](chezmoi/README.md)
-- 
+- [[post-install|Chezmoi Post install]]
+
+[[Drawing 2025-12-22 14.10.34.excalidraw]]
 # Programs
 - 1password
 - chezmoi
