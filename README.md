@@ -1,6 +1,8 @@
 # stuff
 
-
+### Categories
+- [[chezmoi/README|README]]
+- 
 # Programs
 - 1password
 - chezmoi
