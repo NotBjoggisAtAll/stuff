@@ -1,7 +1,7 @@
 # stuff
 
 ### Categories
-- [[chezmoi/README|README]]
+- [README](chezmoi/README.md)
 - 
 # Programs
 - 1password
